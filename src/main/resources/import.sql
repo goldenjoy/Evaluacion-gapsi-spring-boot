@@ -1,0 +1,2 @@
+INSERT INTO prov (nombre, razon_social, direccion) VALUES('empresa 01', 'qwerty01', '436 Silas Stravenue Apt. 246, Bilzen 9510');
+INSERT INTO prov (nombre, razon_social, direccion) VALUES('empresa 02', 'qwerty02', '510 Broken Street Av. 87, Blue Tower 7719');
